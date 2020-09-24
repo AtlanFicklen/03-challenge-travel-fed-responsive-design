@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#hero {
+    background-image: url(https://www.fortispayments.com/wp-content/uploads/2019/03/pool-for-google-blog.jpg);
+    background-size: cover;
+
+}
+
+#logo {
+    width: 100px;
+}
+
+#welcome_heading {
+    padding: 3rem 2rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    padding: 1rem;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    color: blue;
+}
